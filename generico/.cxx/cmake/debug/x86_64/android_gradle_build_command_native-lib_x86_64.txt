@@ -1,0 +1,7 @@
+Executable : C:\Users\braya\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\braya\AndroidStudioProjects\MyApplication2\generico\.cxx\cmake\debug\x86_64
+native-lib
+jvmArgs : 
+

@@ -1,0 +1,5 @@
+# ninja log v5
+1	1843	646202246	CMakeFiles/native-lib.dir/native-lib.cpp.o	51477575eb252b15
+1846	4295	646202248	C:/Users/braya/AndroidStudioProjects/MyApplication2/generico/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	1d759de68b2dafef
+668	3153	646682311	CMakeFiles/native-lib.dir/native-lib.cpp.o	51477575eb252b15
+3153	8272	646682316	C:/Users/braya/AndroidStudioProjects/MyApplication2/generico/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	1d759de68b2dafef
