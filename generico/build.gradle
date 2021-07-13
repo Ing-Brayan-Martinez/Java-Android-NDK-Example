@@ -5,6 +5,7 @@ plugins {
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
+    ndkVersion "21.4.7075529"
 
     defaultConfig {
         minSdkVersion 16
@@ -14,8 +15,6 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
-
-        ndkVersion "22.1.7171670"
 
         externalNativeBuild {
             cmake {
@@ -39,7 +38,7 @@ android {
     externalNativeBuild {
         cmake {
             path file('src/main/cpp/CMakeLists.txt')
-            version '3.10.2'
+            version '3.18.1'
         }
     }
 
